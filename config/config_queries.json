@@ -1,0 +1,8 @@
+{
+    "queries_path" : "./data/consultas/test-queries.csv",
+    "tokens_path" : "./tokens/tokens_q.json",
+    "stopper_path" : "./stopper/stopper_q.json",
+    "stopwords_path" : "./stopwords/es.txt",
+    "algorithm_stemmer" : "snowball",
+    "stemmer_path" :"./stemmer/stemmer_q.json"
+}

@@ -1,0 +1,17 @@
+{
+    "docs_path" : "./data/corpus/docs.tsv",
+    "tokens_path" : "./tokens/tokens.json",
+    "stopper_path" : "./stopper/stopper.json",
+    "stopwords_path" : "./stopwords/es.txt",
+    "algorithm_stemmer" : "snowball",
+    "stemmer_path" :"./stemmer/stemmer_expand.json",
+    "expand_docs" : "./stemmer/stemmer_expand.json",
+    "expand_factor" : 20,
+    "structures_path": "./data/structures",
+    "queries_path": "./stemmer/stemmer_q.json",
+    "json_docs":"./json/docs.json",
+    "json_queries": "./json/queries.json",
+    "k_bm25": 1.2,
+    "b_bm25": 0.75,
+    "result_path" : "./out/resultado.csv"
+}

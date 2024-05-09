@@ -1,0 +1,4 @@
+{
+    "queries_path" : "./test-queries.csv",
+    "docs_path":"./docs.tsv"
+}
